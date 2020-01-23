@@ -1147,7 +1147,7 @@
 		top: 0;
 		left: 0;
 		width: 100%;
-		background-color: #3bbd90;
+		background-color: #010d27;
 		color: #ffffff;
 		height: 3.25em;
 		line-height: 3.25em;
@@ -1217,7 +1217,7 @@
 
 					#header nav ul li.active a {
 						background-color: #ffffff;
-						color: #3bbd90;
+						color: #010d27;
 					}
 
 		@media screen and (max-width: 980px) {
